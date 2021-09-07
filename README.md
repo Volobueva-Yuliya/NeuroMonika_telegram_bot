@@ -1,4 +1,4 @@
-# NeuroMonika_telegram_bot
+# Телеграм бот NeuroMonika 
 
 NeuroMonika - то бот, который знает как быстро и эффективно выучить английские слова.  
 Ссылка https://t.me/NeuroMonika_bot
