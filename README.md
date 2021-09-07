@@ -31,11 +31,7 @@
 - обучение модели проверки правописания;  
 - парсинг yandex image mem;
 - установка бота на сервер.  
-
-
-  
-  
-  
+ 
 ## Используемые источники
 1. https://github.com/Currie32/Spell-Checker
 2. https://dev-gang.ru/article/perevod-teksta-s-pomosczu-google-translate-api-v-python-ahgm88wx1k/
