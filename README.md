@@ -24,7 +24,7 @@
 5. Визуальный образ. Парсинг yandex image mem.   
   
 ## Команда
-<img align="right" src="https://github.com/Volobueva-Yuliya/NeuroMonika_telegram_bot/blob/main/img/team.png" width="300" />  
+<img align="right" src="https://github.com/Volobueva-Yuliya/NeuroMonika_telegram_bot/blob/main/img/team.png" width="350" />  
 
 Мой вклад в проект:
 - идея проекта;  
