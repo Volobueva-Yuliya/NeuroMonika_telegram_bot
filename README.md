@@ -24,7 +24,7 @@
 5. Визуальный образ. Парсинг yandex image mem.   
   
 ## Команда
-<img align="right" src="https://github.com/Volobueva-Yuliya/NeuroMonika_telegram_bot/blob/main/img/team.png" width="350" />  
+<img align="right" src="https://github.com/Volobueva-Yuliya/NeuroMonika_telegram_bot/blob/main/img/team.png" width="400" />  
 
 Мой вклад в проект:
 - идея проекта;  
@@ -33,7 +33,9 @@
 - установка бота на сервер.  
 
 
-
+  
+  
+  
 ## Используемые источники
 1. https://github.com/Currie32/Spell-Checker
 2. https://dev-gang.ru/article/perevod-teksta-s-pomosczu-google-translate-api-v-python-ahgm88wx1k/
